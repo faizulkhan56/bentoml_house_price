@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# BentoML models
+~/.bentoml/models/
+
+.DS_Store
